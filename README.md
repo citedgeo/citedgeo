@@ -16,9 +16,13 @@ every figure in a report links to the raw answers behind it.
 - Measurement method: https://citedgeo.com/measurement/?utm_source=github&utm_medium=social&utm_campaign=profile
 - Free GEO audit (10 questions, 60 recorded answers): https://citedgeo.com/free-audit/?utm_source=github&utm_medium=social&utm_campaign=profile
 
-## Worth reading first
-- [What is GEO, and how it differs from SEO](https://citedgeo.com/insights/what-is-geo/?utm_source=github&utm_medium=social&utm_campaign=profile)
-- [What Perplexity cites when a UK customer asks for a local business](https://citedgeo.com/case-studies/perplexity-uk-local-businesses-496-answers/?utm_source=github&utm_medium=social&utm_campaign=profile): 496 answers from 27 and 28 September 2026, with the full answer table to download.
+## Further reading
+
+- [What GEO is](https://citedgeo.com/insights/what-is-geo/?utm_source=github&utm_medium=social&utm_campaign=profile)
+- [How to measure AI search visibility](https://citedgeo.com/insights/measure-ai-search-visibility/?utm_source=github&utm_medium=social&utm_campaign=profile)
+- [SEO vs GEO for a small business](https://citedgeo.com/insights/seo-vs-geo-small-business/?utm_source=github&utm_medium=social&utm_campaign=profile)
+- [The same question asked twice: different firms named](https://citedgeo.com/insights/same-question-different-firms/?utm_source=github&utm_medium=social&utm_campaign=profile)
+- [Which sites Perplexity cites for UK local firms](https://citedgeo.com/insights/which-sites-perplexity-cites-uk-local/?utm_source=github&utm_medium=social&utm_campaign=profile)
 
 ## What we do not publish
 Client names, client data and case study specifics stay off GitHub; they live,
@@ -26,6 +30,5 @@ anonymised, in our case studies: https://citedgeo.com/case-studies/?utm_source=g
 
 ## Contact
 hello@citedgeo.com · https://citedgeo.com/contact/?utm_source=github&utm_medium=social&utm_campaign=profile
-Kyiv, Ukraine. Remote team, UK hours.
 
-CitedGEO team
+We are a small, founder-led agency and work remotely with brands that sell in the UK, the US and Europe.
