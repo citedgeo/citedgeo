@@ -1,8 +1,12 @@
 # CitedGEO
 
-GEO agency: we measure how often brands are named and cited in Perplexity
-and Google AI Overviews, and publish exactly how. SEO is our second line
-of work, because an engine cannot cite a page it cannot read.
+More and more people ask AI assistants and Google which business to choose. The answer usually names just a few companies. If yours isn't one of them, those customers go to someone else.
+
+CitedGEO asks AI the questions your customers ask and shows you what comes back: who gets recommended instead of you, and why. Then we fix what keeps you out of the answer: your website, your listings and how other sites describe you. You see in plain numbers whether it changed.
+
+We can't promise what an AI will say. We show you whether it names you.
+
+See what AI says about your business, free: https://citedgeo.com/free-audit/?utm_source=github&utm_medium=social&utm_campaign=profile
 
 ## What GEO means here
 Generative Engine Optimization (GEO) is the work of getting a brand named,
